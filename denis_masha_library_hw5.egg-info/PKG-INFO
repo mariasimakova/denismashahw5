@@ -1,0 +1,15 @@
+Metadata-Version: 2.1
+Name: denis_masha_library_hw5
+Version: 0.1
+Summary: hw5
+Home-page: https://github.com/mariasimakova/denismashahw5
+Author: Maria Simakova
+Author-email: maria.simakova@bse.eu
+Requires-Python: >=3.12
+Description-Content-Type: text/markdown
+Requires-Dist: pathlib
+Requires-Dist: pandas
+Requires-Dist: scikit-learn
+
+DenisProcyon - Denis Shadrin
+mariasimakova - Maria Simakova
