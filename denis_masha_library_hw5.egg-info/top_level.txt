@@ -1,3 +1,6 @@
 card_game
+data_processing
+feature_transforming
 figure
+model
 patient
